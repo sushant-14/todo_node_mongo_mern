@@ -9,7 +9,6 @@ router.get('/',homeController.home);
 router.use('/users',require('./users'));
 
 
-
 // router.get('/famous',homeController.famous);
 // router.get('/funny',homeController.funny);
 
